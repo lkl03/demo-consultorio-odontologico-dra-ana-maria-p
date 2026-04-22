@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-dra-ana-maria-p
-Demo web para CONSULTORIO ODONTOLÓGICO Dra.Ana María Piñeiro — diseñada por eterlab.
+# CONSULTORIO ODONTOLÓGICO Dra.Ana María Piñeiro
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
